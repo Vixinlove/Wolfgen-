@@ -10,7 +10,7 @@
             "Sometimes feels like r_c is still right there next to {PRONOUN/m_c/object}"
         ],
         "random_living_status": [
-            "starclan"
+            "starpack"
         ]
     },
     {
@@ -91,7 +91,7 @@
     {
         "id": "elder_alive_leader",
         "thoughts": [
-            "Is giving the Clan leader attitude"
+            "Is giving the pack leader attitude"
         ],
         "main_age_constraint": [
             "senior"
@@ -103,7 +103,7 @@
     {
         "id": "elder_alive_to_dead_mate",
         "thoughts": [
-            "Wonders when {PRONOUN/m_c/subject}'ll join r_c in StarClan",
+            "Wonders when {PRONOUN/m_c/subject}'ll join r_c in Starpack",
             "Almost can't believe that r_c was the first to go",
             "Had a dream about r_c last night",
             "Purrs softly while thinking about r_c",
@@ -113,7 +113,7 @@
             "senior"
         ],
         "random_living_status":[
-            "starclan"
+            "starpack"
         ],
         "relationship_constraint":[
             "mates"
@@ -124,10 +124,10 @@
         "thoughts": [
             "Wants everyone to stop pitying {PRONOUN/m_c/object}, {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} fine!",
             "Is glad {PRONOUN/m_c/subject} retired",
-            "Knows {PRONOUN/m_c/subject} {VERB/m_c/are/is} helping the Clan more now",
+            "Knows {PRONOUN/m_c/subject} {VERB/m_c/are/is} helping the pack more now",
             "Feels like {PRONOUN/m_c/subject} {VERB/m_c/are/is} missing out on adventures",
             "Feels alone in {PRONOUN/m_c/poss} struggles",
-            "Is becoming more confident in {PRONOUN/m_c/poss} position in the Clan",
+            "Is becoming more confident in {PRONOUN/m_c/poss} position in the pack",
             "Is enjoying {PRONOUN/m_c/poss} retirement under the sun"
         ],
         "perm_conditions": {
@@ -370,7 +370,7 @@
     {
         "id": "one_bad_eye_adolescent_retired_to_alive_gen",
         "thoughts": [
-            "Brags to the Clan that {PRONOUN/m_c/subject} would've been the best leader"
+            "Brags to the pack that {PRONOUN/m_c/subject} would've been the best leader"
         ],
         "perm_conditions": {
             "m_c": [
@@ -454,7 +454,7 @@
     {
         "id": "deaf_gen_retired_to_alive_gen",
         "thoughts": [
-            "Idly feels the thumps of {PRONOUN/m_c/poss} Clanmates' pawsteps on the ground",
+            "Idly feels the thumps of {PRONOUN/m_c/poss} packmates' pawsteps on the ground",
             "Has learned to feel vibrations through the ground",
             "Is teaching r_c tail signals",
             "Tries to read r_c's posture",

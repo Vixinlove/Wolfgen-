@@ -1,56 +1,56 @@
 [
     {
-        "id": "general_med_cat_app_to_dead_starclan_newborn1",
+        "id": "general_med_cat_app_to_dead_starpack_newborn1",
         "thoughts": [
             "Wonders if {PRONOUN/m_c/subject} would have gotten the chance to do r_c's first check-up",
             "Can still smell the bitter herbs that {PRONOUN/m_c/subject} desperately fetched to try and save r_c's life",
             "Thought {PRONOUN/m_c/subject} heard r_c's mewls, but was wrong",
             "Contemplates how short r_c's life was and how much {PRONOUN/r_c/subject} {VERB/m_c/are/is} missing",
-            "Is questioning if r_c would grow up in StarClan or stay a newborn",
-            "Prays that r_c is healthy and receives the strength {PRONOUN/r_c/subject} need to grow in StarClan",
+            "Is questioning if r_c would grow up in Starpack or stay a newborn",
+            "Prays that r_c is healthy and receives the strength {PRONOUN/r_c/subject} need to grow in Starpack",
             "Is finally accepting {PRONOUN/m_c/subject} did all {PRONOUN/m_c/subject} could to save r_c",
             "Is pondering which role r_c would have been",
-            "Ponders how StarClan would deal with r_c",
+            "Ponders how Starpack would deal with r_c",
             "Thought {PRONOUN/m_c/subject} encountered r_c while scavenging for herbs, but it was a trick of {PRONOUN/m_c/poss} mind",
             "Is listening to the reason behind r_c's name with a fond smile",
-            "Wonders if newborn kits grow up to be adults or stay young forever in StarClan",
-            "Is asking StarClan why they take newborns to Silverpelt",
-            "Prays that all the newborn kits in StarClan get enough food to stay strong",
-            "Is contemplating StarClan and why they would allow newborns to pass",
+            "Wonders if newborn kits grow up to be adults or stay young forever in Starpack",
+            "Is asking Starpack why they take newborns to Silverpelt",
+            "Prays that all the newborn kits in Starpack get enough food to stay strong",
+            "Is contemplating Starpack and why they would allow newborns to pass",
             "Is reflecting on r_c's pelt, and is sad {PRONOUN/m_c/subject} never knew {PRONOUN/r_c/poss} eye color",
             "Was startled to meet a newborn kit while dreaming and ponders what it meant",
             "Was spooked when {PRONOUN/m_c/subject} encountered a ghostly newborn while collecting herbs, which disappeared when noticed",
-            "Is asking {PRONOUN/m_c/poss} mentor why StarClan allows newborns to join Silverpelt",
-            "Is vowing to never let another newborn join StarClan's ranks"
+            "Is asking {PRONOUN/m_c/poss} mentor why Starpack allows newborns to join Silverpelt",
+            "Is vowing to never let another newborn join Starpack's ranks"
         ],
         "random_status_constraint": [
             "newborn"
         ],
         "random_living_status": [
-            "starclan"
+            "starpack"
         ]
     },
     {
-        "id": "plain_med_cat_app_to_dead_starclan_newborn",
+        "id": "plain_med_cat_app_to_dead_starpack_newborn",
         "thoughts": [
             "Is wondering if r_c was a part of the stars last night",
             "Thought {PRONOUN/m_c/subject} heard r_c's mewls, but it was just the wind",
-            "Is questioning who would provide for r_c in StarClan",
+            "Is questioning who would provide for r_c in Starpack",
             "Wonders if r_c would have played with the insects in the grass if {PRONOUN/r_c/subject} had time to grow up",
             "Questions if r_c's spirit exists in the tall grasses",
             "Thought {PRONOUN/m_c/subject} saw r_c's spirit hanging around the nursery tunnel",
-            "Wonders if r_c gets to venture out of the tunnels in StarClan",
+            "Wonders if r_c gets to venture out of the tunnels in Starpack",
             "Thought {PRONOUN/m_c/subject} saw r_c playing with the roots of the tree, but sadly shakes off the thought",
             "Was surprised to find r_c's spot in the nursery warm, despite {PRONOUN/r_c/object} being with the stars now",
-            "Is pondering if r_c would stay in tunnels or go out an explore the territory in StarClan",
-            "Wonders if the newborns in StarClan will ever get to play and run across open fields",
-            "Prays to StarClan that the passed newborn kits get to feel the wind across their pelt"
+            "Is pondering if r_c would stay in tunnels or go out an explore the territory in Starpack",
+            "Wonders if the newborns in Starpack will ever get to play and run across open fields",
+            "Prays to Starpack that the passed newborn kits get to feel the wind across their pelt"
         ],
         "biome":[
             "Plains"
         ],
         "random_living_status": [
-            "starclan"
+            "starpack"
         ]
     },
     {
@@ -65,7 +65,7 @@
             "medicine cat apprentice"
         ],
         "random_living_status": [
-            "starclan"
+            "starpack"
         ]
     },
     {
@@ -86,7 +86,7 @@
             "Is taking {PRONOUN/m_c/poss} training very seriously",
             "Is learning the early signs of infection",
             "Is memorizing all the places catmint grows",
-            "Wonders if StarClan will send {PRONOUN/m_c/object} a practice sign before a real one",
+            "Wonders if Starpack will send {PRONOUN/m_c/object} a practice sign before a real one",
             "Is neatly stacking bundles of herbs after drying"
         ]
     },
@@ -101,7 +101,7 @@
             "kitten"
         ],
         "random_living_status": [
-            "starclan"
+            "starpack"
         ]
     },
     {
@@ -112,7 +112,7 @@
             "Wishes {PRONOUN/m_c/subject} understood the apprentice's inside jokes",
             "Hopes r_c will come with {PRONOUN/m_c/object} to help gather herbs",
             "Is assuring r_c that everything is okay",
-            "Is wondering if StarClan is visiting r_c's dreams",
+            "Is wondering if Starpack is visiting r_c's dreams",
             "Is realizing how lonely it can be to be a medicine cat apprentice",
             "Is watching other apprentices train"
         ],
@@ -146,7 +146,7 @@
             "Is watching r_c work",
             "Asks r_c about the best way to help with bee stings",
             "Is asking r_c for guidance about a recent dream",
-            "Asks r_c how to tell something is a sign from StarClan",
+            "Asks r_c how to tell something is a sign from Starpack",
             "Hopes to learn from r_c's expertise",
             "Asks r_c how to tell the difference between a sprain and a dislocated joint"
         ],
@@ -161,7 +161,7 @@
             "Is always worrying about {PRONOUN/m_c/poss} patients",
             "Is worried about a greencough outbreak",
             "Is terrified of misdiagnosing something serious",
-            "Isn't sure if {PRONOUN/m_c/subject} can handle the stress of caring for the Clan",
+            "Isn't sure if {PRONOUN/m_c/subject} can handle the stress of caring for the pack",
             "Is holding back tears after using the wrong herbs",
             "Is upset after {PRONOUN/m_c/subject} froze at the sight of blood from a minor wound"
         ],
@@ -176,7 +176,7 @@
             "Is hoping {PRONOUN/m_c/poss} medicine cat name will end in -claw",
             "Wants to learn some battle moves... just in case",
             "Is keeping something hidden in the back of medicine den",
-            "Is wondering if StarClan uses greencough to weed out the weaker members of the Clan",
+            "Is wondering if Starpack uses greencough to weed out the weaker members of the pack",
             "Doesn't understand the point of keeping sickly old elders healthy with precious herbs",
             "Is seen secretly leaving camp to wash {PRONOUN/m_c/poss} paws in a creek",
             "Is studying the effects of deathberries"
@@ -192,8 +192,8 @@
         "id": "nice_medicine_cat_apprentice",
         "thoughts": [
             "Is vowing to help any cat in need",
-            "Is looking to StarClan for guidance in a difficult decision",
-            "Is thinking about how to keep the Clan safe and healthy",
+            "Is looking to Starpack for guidance in a difficult decision",
+            "Is thinking about how to keep the pack safe and healthy",
             "Is dreaming about taking care of a patient",
             "Is arguing that rogues and loners deserve help too"
         ],
@@ -211,7 +211,7 @@
             "Is unsure of r_c's treatment methods",
             "Is wondering why r_c decided to be a medicine cat",
             "Is worried r_c likes to hurt patients",
-            "Is skeptical of StarClan's choice of r_c as a medicine cat",
+            "Is skeptical of Starpack's choice of r_c as a medicine cat",
             "Is startled to find r_c has a stock pile of death berries"
         ],
         "main_trait_constraint": [
@@ -238,7 +238,7 @@
             "Is meeting secretly with r_c to discuss a new 'treatment' method",
             "Is helping r_c secretly gather death berries",
             "Is delighted to find r_c feels the same way about weak cats",
-            "Is glad r_c is against sharing life saving herbs with enemy Clans",
+            "Is glad r_c is against sharing life saving herbs with enemy packs",
             "Is standing with r_c, both glaring over their newest vict-, erm, 'patients'",
             "Is learning the best way to make a death look like a medical accident from r_c",
             "Is discussing attacking other medicine cats at the next half moon with r_c"

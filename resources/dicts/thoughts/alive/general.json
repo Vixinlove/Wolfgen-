@@ -2,7 +2,7 @@
     {
         "id": "gen_to_dead_kit",
         "thoughts": [
-            "Is hoping r_c is well in StarClan",
+            "Is hoping r_c is well in Starpack",
             "Is wishing r_c could've lived to see today",
             "Is listening to stories about r_c",
             "Is learning more about r_c"
@@ -14,7 +14,7 @@
             "kitten"
         ],
         "random_living_status": [
-            "starclan"
+            "starpack"
         ]
     },
     {
@@ -32,7 +32,7 @@
             "medicine cat apprentice"
         ],
         "random_living_status": [
-            "starclan"
+            "starpack"
         ]
     },
     {
@@ -50,7 +50,7 @@
             "apprentice"
         ],
         "random_living_status": [
-            "starclan"
+            "starpack"
         ]
     },
     {
@@ -67,7 +67,7 @@
             "warrior"
         ],
         "random_living_status": [
-            "starclan"
+            "starpack"
         ]
     },
     {
@@ -75,7 +75,7 @@
         "thoughts": [
             "Is listening to stories about r_c",
             "Is hoping r_c will guide {PRONOUN/m_c/object}",
-            "Is wondering if r_c is doing well in StarClan"
+            "Is wondering if r_c is doing well in Starpack"
         ],
         "main_status_constraint": [
             "any"
@@ -84,7 +84,7 @@
             "medicine cat"
         ],
         "random_living_status": [
-            "starclan"
+            "starpack"
         ]
     },
     {
@@ -92,7 +92,7 @@
         "thoughts": [
             "Is missing {PRONOUN/m_c/poss} late leader r_c",
             "Is wondering if r_c is proud of {PRONOUN/m_c/object}",
-            "Is wondering if r_c approves from StarClan"
+            "Is wondering if r_c approves from Starpack"
         ],
         "main_status_constraint": [
             "any"
@@ -101,7 +101,7 @@
             "leader"
         ],
         "random_living_status": [
-            "starclan"
+            "starpack"
         ]
     },
     {
@@ -118,7 +118,7 @@
             "deputy"
         ],
         "random_living_status": [
-            "starclan"
+            "starpack"
         ]
     },
     {
@@ -135,13 +135,13 @@
             "elder"
         ],
         "random_living_status": [
-            "starclan"
+            "starpack"
         ]
     },
     {
         "id": "gen_to_dead_mediator",
         "thoughts": [
-            "Is wondering what r_c would think of current conflicts in the Clan"
+            "Is wondering what r_c would think of current conflicts in the pack"
         ],
         "main_status_constraint": [
             "any"
@@ -150,7 +150,7 @@
             "mediator"
         ],
         "random_living_status": [
-            "starclan"
+            "starpack"
         ]
     },
     {
@@ -159,7 +159,7 @@
             "Is listening to stories about r_c",
             "Is learning more about r_c",
             "Is sad {PRONOUN/m_c/subject} couldn't spend time with r_c",
-            "Is wondering if r_c is doing well in StarClan",
+            "Is wondering if r_c is doing well in Starpack",
             "Is missing r_c"
         ],
         "main_status_constraint": [
@@ -169,7 +169,7 @@
             "any"
         ],
         "random_living_status": [
-            "starclan"
+            "starpack"
         ]
     },
     {
@@ -252,7 +252,7 @@
         "id": "gen_to_alive_med_cat",
         "thoughts": [
             "Is grateful to r_c for {PRONOUN/m_c/poss} treatment",
-            "Wonders if StarClan has given r_c any prophecies lately"
+            "Wonders if Starpack has given r_c any prophecies lately"
         ],
         "main_status_constraint": [
             "kitten",
@@ -399,7 +399,7 @@
             "Is feeling gloomy",
             "Is looking around camp",
             "Is feeling happy!",
-            "Is curious about the other Clans",
+            "Is curious about the other packs",
             "Is feeling sassy today",
             "Wants to spend time alone today",
             "Is eating some fresh-kill",
@@ -494,7 +494,7 @@
             "Fell into the nearby creek yesterday and is still feeling damp",
             "Is having a hard time keeping up with {PRONOUN/m_c/poss} training",
             "Was tasked with lining nests with fresh moss today",
-            "Is dreaming of someday making {PRONOUN/m_c/poss} Clan proud",
+            "Is dreaming of someday making {PRONOUN/m_c/poss} pack proud",
             "Is thinking about the time {PRONOUN/m_c/subject} caught a huge rabbit",
             "Practices some battle moves",
             "Is helping to reinforce the camp wall with brambles",
@@ -619,7 +619,7 @@
         "id": "apprentice_dead_elder",
         "thoughts": [
             "Is wishing r_c was still here to tell {PRONOUN/m_c/object} stories",
-            "Is wondering who helps r_c with {PRONOUN/r_c/poss} ticks in StarClan"
+            "Is wondering who helps r_c with {PRONOUN/r_c/poss} ticks in Starpack"
         ],
         "main_status_constraint": [
             "apprentice",
@@ -630,13 +630,13 @@
             "elder"
         ],
         "random_living_status": [
-            "starclan"
+            "starpack"
         ]
     },
     {
         "id": "apprentice_dead_leader/deputy",
         "thoughts": [
-            "Is wondering if r_c approves of {PRONOUN/m_c/object} from StarClan"
+            "Is wondering if r_c approves of {PRONOUN/m_c/object} from Starpack"
         ],
         "main_status_constraint": [
             "apprentice",
@@ -648,7 +648,7 @@
             "deputy"
         ],
         "random_living_status": [
-            "starclan"
+            "starpack"
         ]
     },
     {
@@ -665,7 +665,7 @@
             "medicine cat apprentice"
         ],
         "random_living_status": [
-            "starclan"
+            "starpack"
         ]
     },
     {
@@ -690,20 +690,20 @@
             "adolescent"
         ],
         "random_living_status": [
-            "starclan"
+            "starpack"
         ]
     },
     {
-        "id": "apprentice_to_dead_StarClan_kits",
+        "id": "apprentice_to_dead_Starpack_kits",
         "thoughts": [
             "Wonders if one of the stars in the sky is r_c",
             "Remembers fondly when r_c would beg to be taught a new fighting move",
             "Goes to teach r_c a new move {PRONOUN/m_c/subject} learned, but remembered r_c is among the stars now",
             "Misses r_c nagging {PRONOUN/m_c/object} about apprentice duties",
             "Is tearing up after finding r_c's old mossball",
-            "Hopes that somehow, someway, the kits in StarClan are learning the hunting crouch",
-            "Wonders if the kits get mossballs in StarClan",
-            "Hopes that the kits in StarClan get time to play games",
+            "Hopes that somehow, someway, the kits in Starpack are learning the hunting crouch",
+            "Wonders if the kits get mossballs in Starpack",
+            "Hopes that the kits in Starpack get time to play games",
             "Looks up at the night sky, and wonders which stars are long-gone kits",
             "Thought {PRONOUN/m_c/subject} saw a stray kit infront of the nursery, but it vanished",
             "Walks in the nursery, hoping to see r_c again, but then realizes that r_c isn't coming back"
@@ -717,7 +717,7 @@
             "kitten"
         ],
         "random_living_status": [
-            "starclan"
+            "starpack"
         ]
     },
     {
@@ -1162,7 +1162,7 @@
         "id": "faithful_apprentice",
         "thoughts": [
             "Is sending thanks to the stars for a good training session",
-            "Prays to StarClan that the training session goes well",
+            "Prays to Starpack that the training session goes well",
             "Has faith that {PRONOUN/m_c/poss} warrior ancestors are leading {PRONOUN/m_c/object} on the right path"
         ],
         "main_status_constraint": [
@@ -1213,8 +1213,8 @@
             "Has been asking {PRONOUN/m_c/poss} mentor for more training",
             "Is feeling proud of {PRONOUN/m_c/self}",
             "Made sure to wake up early to train",
-            "Is daydreaming about a Clan celebration in {PRONOUN/m_c/poss} honor",
-            "Is asking the Clan leader how {PRONOUN/m_c/subject} can help out around camp",
+            "Is daydreaming about a pack celebration in {PRONOUN/m_c/poss} honor",
+            "Is asking the pack leader how {PRONOUN/m_c/subject} can help out around camp",
             "Has been asking {PRONOUN/m_c/poss} mentor for more training",
             "Tries to put on a brave face for {PRONOUN/m_c/poss} fellow apprentices",
             "Seems to be ordering {PRONOUN/m_c/poss} fellow apprentices around"
@@ -1367,14 +1367,14 @@
     {
         "id": "blind_gen_to_alive_gen",
         "thoughts": [
-            "Wonders what {PRONOUN/m_c/poss} Clanmates look like",
+            "Wonders what {PRONOUN/m_c/poss} packmates look like",
             "Smiles as r_c tries to describe different colors to {PRONOUN/m_c/object}",
             "Listened to bird songs all morning",
             "Just heard a frog croaking in camp!",
             "Knows r_c is nearby from the sound of {PRONOUN/r_c/poss} pawsteps",
             "Jumps as {PRONOUN/m_c/subject} {VERB/m_c/hit/hits} a large rock with {PRONOUN/m_c/poss} paw",
-            "Is annoyed that a Clanmate keeps pitying {PRONOUN/m_c/object}",
-            "Confused {PRONOUN/m_c/poss} Clanmates when {PRONOUN/m_c/subject} said it was a beautiful day",
+            "Is annoyed that a packmate keeps pitying {PRONOUN/m_c/object}",
+            "Confused {PRONOUN/m_c/poss} packmates when {PRONOUN/m_c/subject} said it was a beautiful day",
             "Wonders if {PRONOUN/m_c/poss} mental image of r_c matches real life"
         ],
         "perm_conditions": {
@@ -1519,14 +1519,14 @@
         "id": "deaf_gen_to_alive_gen",
         "thoughts": [
             "Wishes {PRONOUN/m_c/subject} could hear the sounds of camp",
-            "Teaches a new Clanmate how to do tail signals",
+            "Teaches a new packmate how to do tail signals",
             "Nearly hits the den's ceiling when r_c suddenly enters {PRONOUN/m_c/poss} line of sight",
-            "Can identify {PRONOUN/m_c/poss} Clanmates just by the feel of their pawsteps",
+            "Can identify {PRONOUN/m_c/poss} packmates just by the feel of their pawsteps",
             "Recently discovered that {PRONOUN/m_c/subject} {VERB/m_c/have/has} a stomping habit",
             "Is confused when r_c indicates birdsong",
             "Wonders what r_c sounds like",
             "Knows what r_c is saying from {PRONOUN/r_c/poss} mouth movement",
-            "Teases a Clanmate for trying to call {PRONOUN/m_c/object} out loud"
+            "Teases a packmate for trying to call {PRONOUN/m_c/object} out loud"
         ],
         "perm_conditions": {
             "m_c": [
@@ -1547,7 +1547,7 @@
             "Is frustrated that other cats don't understand {PRONOUN/m_c/poss} signals",
             "Wishes {PRONOUN/m_c/subject} could talk to other cats",
             "Feels thunder boom and watches the others flinch",
-            "Curiously feels the thumps of {PRONOUN/m_c/poss} Clanmates' pawsteps on the ground"
+            "Curiously feels the thumps of {PRONOUN/m_c/poss} packmates' pawsteps on the ground"
         ],
         "perm_conditions": {
             "m_c": [
@@ -1744,7 +1744,7 @@
         "thoughts": [
             "Points to something with a forepaw",
             "Flicks {PRONOUN/m_c/poss} tail stub in annoyance",
-            "Rolls {PRONOUN/m_c/poss} eyes when a Clanmate says they feel bad for {PRONOUN/m_c/object}"
+            "Rolls {PRONOUN/m_c/poss} eyes when a packmate says they feel bad for {PRONOUN/m_c/object}"
         ],
         "perm_conditions": {
             "m_c": [
