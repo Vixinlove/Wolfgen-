@@ -1,0 +1,137 @@
+{
+  "backstories": {
+        "pack_founder": "This cat is one of the founding members of the pack.",
+        "packborn": "This cat was born into the pack where {PRONOUN/m_c/subject} currently {VERB/m_c/reside/resides}.",
+
+        "halfpack1": "This cat was born into the pack, but one of {PRONOUN/m_c/poss} parents resides in another pack.",
+        "halfpack2": "This cat was born in another pack, but chose to come to this pack to be with {PRONOUN/m_c/poss} other parent.",
+
+        "outsider_roots1": "This cat was born into the pack, but one of {PRONOUN/m_c/poss} parents is an outsider that belongs to no pack.",
+        "outsider_roots2": "This cat was born outside the pack, but came to live in the pack with {PRONOUN/m_c/poss} parent at a young age.",
+
+        "loner1": "This cat joined the pack by choice after living life as a loner.",
+        "loner2": "This cat used to live in a barn, but mostly stayed away from Twolegs. {PRONOUN/m_c/subject/CAP} decided pack life might be an interesting change of pace.",
+
+        "House_dog1": "This cat joined the pack by choice after living life with Twolegs as a House dog.",
+        "House_dog2": "This cat used to live on something called a 'boat' with Twolegs, but decided to join the pack.",
+        "House_dog3": "This cat used be a House_dog. {PRONOUN/m_c/subject/CAP} got lost after wandering away, and when {PRONOUN/m_c/subject} returned home, {PRONOUN/m_c/subject} found {PRONOUN/m_c/poss} Twolegs were gone. {PRONOUN/m_c/subject/CAP} eventually found {PRONOUN/m_c/poss} way to the pack.",
+        "House_dog4": "This cat used to be a House_dog. One day, {PRONOUN/m_c/subject} got sick, and {PRONOUN/m_c/poss} Twolegs brought {PRONOUN/m_c/object} into the belly of a monster. The Twolegs then left {PRONOUN/m_c/object} to fend for {PRONOUN/m_c/self}.",
+
+        "rogue1": "This cat joined the pack by choice after living life as a rogue.",
+        "rogue2": "This cat used to live in a Twolegplace, scrounging for what {PRONOUN/m_c/subject} could find. {PRONOUN/m_c/subject/CAP} thought the pack might offer {PRONOUN/m_c/object} more security.",
+        "rogue3": "This cat used to live alone in {PRONOUN/m_c/poss} own territory, but was chased out by something and eventually found the pack.",
+
+        "abandoned1": "This cat was found by the pack as a pup and has been living with them ever since.",
+        "abandoned2": "This cat was born outside of the pack, but was brought to the pack as a pup and has lived here ever since.",
+        "abandoned3": "This cat was born into another pack, but {PRONOUN/m_c/subject} {VERB/m_c/were/was} left here as a pup for the pack to raise.",
+        "abandoned4": "This cat was found and taken in after being abandoned by {PRONOUN/m_c/poss} Twolegs as a pup.",
+
+        "otherpack1": "This cat was born into another pack, but came to this pack by choice.",
+        "otherpack2": "This cat was unhappy in {PRONOUN/m_c/poss} old pack and decided to come here instead.",
+        "otherpack3": "This cat's pack stayed with the pack after a disaster struck {PRONOUN/m_c/poss} old one, and decided to stay after the rest of {PRONOUN/m_c/poss} pack returned home.",
+        "otherpack4": "This cat grew up in another pack, but chose to leave that life and join the pack {PRONOUN/m_c/subject} now {VERB/m_c/live/lives} in.",
+
+
+        "disgraced1": "This cat was cast out of {PRONOUN/m_c/poss} old pack for some transgression that {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} not keen on talking about.",
+        "disgraced2": "This cat was exiled from {PRONOUN/m_c/poss} old pack for something {PRONOUN/m_c/subject} didn't do and came here to seek safety.",
+        "disgraced3": "This cat once held a high rank in another pack but was exiled for reasons {PRONOUN/m_c/subject} {VERB/m_c/refuse/refuses} to share.",
+
+        "retired_leader": "This cat used to be the leader of another pack before deciding {PRONOUN/m_c/subject} needed a change of scenery after leadership became too much. {PRONOUN/m_c/subject/CAP} returned {PRONOUN/m_c/poss} nine lives and let {PRONOUN/m_c/poss} deputy take over before coming here.",
+        "medicine_cat": "This cat was once a medicine cat in another pack.",
+        "ostracized_warrior": "This cat was ostracized from {PRONOUN/m_c/poss} old pack, but no one really knows why.",
+
+        "refugee1": "This cat came to this pack after fleeing from {PRONOUN/m_c/poss} former pack and the tyrannical leader that had taken over.",
+        "refugee2": "This cat used to live as a loner, but after another cat chased {PRONOUN/m_c/object} from {PRONOUN/m_c/poss} home, {PRONOUN/m_c/subject} took refuge in the pack.",
+        "refugee3": "This cat used to be a House_dog, but joined the pack after fleeing from {PRONOUN/m_c/poss} cruel Twoleg.",
+        "refugee4": "This cat used to be in a rogue group, but joined the pack after fleeing from the group's tyrannical leader.",
+        "refugee5": "This cat got washed away from {PRONOUN/m_c/poss} former territory in a flood that destroyed {PRONOUN/m_c/poss} home but was glad to find a new home in {PRONOUN/m_c/poss} new pack here.",
+
+        "tragedy_survivor1": "Something horrible happened to this cat's previous pack. {PRONOUN/m_c/subject/CAP} refuse to speak about it.",
+        "tragedy_survivor2": "This cat used to be part of a rogue group, but joined the pack after something terrible happened to it.",
+        "tragedy_survivor3": "This cat used to be a House_dog, but joined the pack after something terrible happened to {PRONOUN/m_c/poss} Twolegs.",
+        "tragedy_survivor4": "This cat used to be a loner, but joined the pack after something terrible made {PRONOUN/m_c/object} leave {PRONOUN/m_c/poss} old home behind.",
+
+        "wandering_healer1": "This cat used to wander, helping those where {PRONOUN/m_c/subject} could, and eventually found the pack.",
+        "wandering_healer2": "This cat used to live in a specific spot, offering help to all who wandered by, but eventually found {PRONOUN/m_c/poss} way to the pack.",
+
+        "guided1": "This cat used to be a House_dog, but after dreaming of starry-furred cats, {PRONOUN/m_c/subject} followed their whispers to the pack.",
+        "guided2": "This cat used to live a rough life as a rogue. While wandering, {PRONOUN/m_c/subject} found a set of starry pawprints, and followed them to the pack.",
+        "guided3": "This cat used to live as a loner. A starry-furred cat appeared to {PRONOUN/m_c/object} one day, and then led {PRONOUN/m_c/object} to the pack.",
+        "guided4": "This cat used to live in a different pack, until a sign from Starpack told {PRONOUN/m_c/object} to leave.",
+
+        "orphaned1": "This cat was found with a deceased parent. The pack took {PRONOUN/m_c/object} in, but doesn't hide where {PRONOUN/m_c/subject} came from.",
+        "orphaned2": "This cat was found with a deceased parent. The pack took {PRONOUN/m_c/object} in, but doesn't tell {PRONOUN/m_c/object} where {PRONOUN/m_c/subject} really came from.",
+        "orphaned3": "This cat was found as a pup among the wreckage of a Monster with no parents in sight and got brought to live in the pack.",
+        "orphaned4": "This cat was found as a pup hiding near a place of battle where there were no survivors and got brought to live in the pack.",
+        "orphaned5": "This cat was found as a pup hiding near {PRONOUN/m_c/poss} parent's bodies and got brought to live in the pack.",
+        "orphaned6": "This cat was found flailing in the ocean as a teeny pupten, no parent in sight.",
+
+        "outsider1": "This cat was born outside of a pack.",
+        "outsider2": "This cat was born outside of a pack, but at {PRONOUN/m_c/poss} birth one parent was a member of a pack.",
+        "outsider3": "This cat was born outside of a pack, while {PRONOUN/m_c/poss} parent was lost."
+  },
+
+  "backstory_display": {
+    "pack_founder_backstories": "pack founder",
+    "packborn_backstories": "packborn",
+    "outsider_roots_backstories": "outsider roots",
+    "half_pack_backstories": "half-pack",
+    "loner_backstories": "formerly a loner",
+    "rogue_backstories": "formerly a rogue",
+    "House_dog_backstories": "formerly a House dog",
+    "outsider_backstories": "formerly an outsider",
+    "former_packcat_backstories": "originally from another pack",
+    "orphaned_backstories": "orphaned",
+    "abandoned_backstories": "abandoned"
+  },
+
+  "backstory_categories": {
+    "pack_founder_backstories": [
+      "pack_founder"
+    ],
+    "packborn_backstories": [
+      "packborn"
+    ],
+    "outsider_roots_backstories": [
+      "outsider_roots1", "outsider_roots2"
+    ],
+    "half_pack_backstories": [
+      "halfpack1", "halfpack2"
+    ],
+    "loner_backstories": [
+      "loner1", "loner2", "refugee2", "tragedy_survivor4", "guided3", "refugee5", "wandering_healer2"
+    ],
+    "rogue_backstories": [
+      "rogue1", "rogue2", "rogue3", "refugee4", "tragedy_survivor2", "guided2", "refugee5", "wandering_healer1"
+    ],
+    "House_dog_backstories": [
+      "House_dog1", "House_dog2", "House_dog3", "House_dog4", "refugee3", "tragedy_survivor3", "guided1"
+    ],
+    "former_packcat_backstories": [
+      "otherpack1", "otherpack2", "otherpack3", "ostracized_warrior", "disgraced1", "disgraced2", "disgraced3", "retired_leader", "refugee1", "tragedy_survivor1", "medicine_cat", "guided4", "refugee5"
+    ],
+    "healer_backstories": [
+      "medicine_cat", "wandering_healer1", "wandering_healer2"
+    ],
+    "orphaned_backstories": [
+      "orphaned1", "orphaned2", "orphaned3", "orphaned4", "orphaned5", "orphaned6"
+    ],
+    "abandoned_backstories": [
+      "abandoned1", "abandoned2", "abandoned3", "abandoned4"
+    ],
+    "outsider_backstories": [
+      "outsider1", "outsider2", "outsider3"
+    ]
+  },
+
+  "conversion": {
+    "tragedy_survivor": "tragedy_survivor1",
+    "disgraced": "disgraced1",
+    "otherpack": "otherpack1",
+    "other_pack1": "otherpack4",
+    "orphaned": "orphaned1",
+    "refugee": "refugee1",
+    "outsider": "outsider1"
+  }
+
+}
