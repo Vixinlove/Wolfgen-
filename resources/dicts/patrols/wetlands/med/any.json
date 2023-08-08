@@ -17,10 +17,10 @@
         "exp": 10,
         "success_text": {
             "unscathed_common": "As p_l looks into the puddle they are greeted by an intense vision. They drop what they are doing and race back to the camp to tell and consult with their leader.",
-            "unscathed_rare": "They are greeted with the vision of a cat they had failed to save looking content and happy in StarClan saying that they were not at fault for their death. They feel unburdened and at peace after receiving that vision."
+            "unscathed_rare": "They are greeted with the vision of a cat they had failed to save looking content and happy in Starpack saying that they were not at fault for their death. They feel unburdened and at peace after receiving that vision."
         },
         "fail_text": {
-            "unscathed_common": "They gaze into the puddle only to see the weird ripples were caused by a feather falling on the puddle. p_l feels disappointed because they really could have used some guidance from StarClan."
+            "unscathed_common": "They gaze into the puddle only to see the weird ripples were caused by a feather falling on the puddle. p_l feels disappointed because they really could have used some guidance from Starpack."
         },
         "min_cats": 1,
         "max_cats": 1,
@@ -104,7 +104,7 @@
         "chance_of_success": 60,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "It takes them all day, but eventually, finally, p_l spots the speckled leaves they've been looking for, so crucial to replenishing the Clan's stores after the long leaf-bare. For just a second, p_l feels the weight of their responsibilities lift, and they let out a whoop and stop to play with app1.",
+            "unscathed_common": "It takes them all day, but eventually, finally, p_l spots the speckled leaves they've been looking for, so crucial to replenishing the pack's stores after the long leaf-bare. For just a second, p_l feels the weight of their responsibilities lift, and they let out a whoop and stop to play with app1.",
             "unscathed_rare": "app1 listens intently as the hours drift slowly by in their intense search, and then finally spots a bush with leaves sprinkled with white. It's lungwort! p_l showers them with praise, app1 feeling like they could burst with accomplishment.",
             "stat_skill": "It takes all of s_c's considerable talent for such things to hunt down the lungwort within their borders, the medicine cats visiting each likely nook and cranny in a carefully planned search pattern until finally those telltale speckled leaves are found.",
             "stat_trait": "Night falls, and still s_c insists they keep going - lungwort is the only reliable cure for yellowcough, they can't let c_n go without. Exhausted but determined, the medicine cats persist patiently until they find those precious speckled leaves."
@@ -133,7 +133,7 @@
             "med_cat",
             "herb",
             "no_app",
-            "clan_to_patrol",
+            "pack_to_patrol",
             "respect",
             "injury",
             "sore"
@@ -143,7 +143,7 @@
         "chance_of_success": 60,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "It takes them all day, but eventually, finally, p_l spots the speckled leaves they've been looking for, so crucial to replenishing the Clan's stores after the long leaf-bare. For just a second, they feel the weight of their responsibilities lift, the strength of that relief catching them off guard.",
+            "unscathed_common": "It takes them all day, but eventually, finally, p_l spots the speckled leaves they've been looking for, so crucial to replenishing the pack's stores after the long leaf-bare. For just a second, they feel the weight of their responsibilities lift, the strength of that relief catching them off guard.",
             "unscathed_rare": "Not only is the lungwort intact and growing nicely, but there's also a nice patch of plantain growing just nearby. Frustratingly, p_l doesn't have the capacity to cart everything back to camp, but they stick the location in their mind as a place to return to.",
             "stat_skill": "It takes all of s_c's considerable talent for such things to hunt down the lungwort within their borders, the medicine cat visiting each likely nook and cranny in a carefully planned search pattern until finally those telltale speckled leaves are found.",
             "stat_trait": "Night falls, and still s_c insists they keep going - they just can't let c_n go without. Exhausted but determined, the medicine cat persists patiently until they find those precious speckled leaves."
@@ -182,7 +182,7 @@
         "chance_of_success": 60,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "It takes them all day, but eventually, finally, p_l spots the speckled leaves they've been looking for, so crucial to replenishing the Clan's stores after the long leaf-bare. For just a second, they feel the weight of their responsibilities lift, the strength of that relief catching them off guard.",
+            "unscathed_common": "It takes them all day, but eventually, finally, p_l spots the speckled leaves they've been looking for, so crucial to replenishing the pack's stores after the long leaf-bare. For just a second, they feel the weight of their responsibilities lift, the strength of that relief catching them off guard.",
             "unscathed_rare": "Not only is the lungwort intact and growing nicely, but there's also a nice patch of plantain growing just nearby. p_l loads up their mostly-obliging escort and carries the extensive harvest home, tail waving jovially with their good mood.",
             "stat_skill": "It takes all of s_c's considerable talent for such things to hunt down the lungwort within their borders, the medicine cat visiting each likely nook and cranny in a carefully planned search pattern until finally those telltale speckled leaves are found.",
             "stat_trait": "Night falls, and still s_c insists they keep going - they just can't let c_n go without. Exhausted but determined, the medicine cat persists patiently until they find those precious speckled leaves."
@@ -256,7 +256,7 @@
             "med_cat",
             "herb",
             "no_app",
-            "clan_to_patrol",
+            "pack_to_patrol",
             "respect",
             "injury",
             "sore"
@@ -379,7 +379,7 @@
             "med_cat",
             "herb",
             "no_app",
-            "clan_to_patrol",
+            "pack_to_patrol",
             "respect",
             "injury",
             "sore"
@@ -502,12 +502,12 @@
             "med_cat",
             "herb",
             "no_app",
-            "clan_to_patrol",
+            "pack_to_patrol",
             "respect",
             "injury",
             "sore"
         ],
-        "intro_text": "p_l is on a mission to find lungwort now that leaf-bare is upon the Clan. As the only reliable cure for yellowcough, they're determined that c_n stock up on it. It dies back during leaf-bare, but the snow in c_n's territory will preserve its juice and freshness until the newleaf thaw.",
+        "intro_text": "p_l is on a mission to find lungwort now that leaf-bare is upon the pack. As the only reliable cure for yellowcough, they're determined that c_n stock up on it. It dies back during leaf-bare, but the snow in c_n's territory will preserve its juice and freshness until the newleaf thaw.",
         "decline_text": "A cat grabs p_l's attention before they can leave camp.",
         "chance_of_success": 30,
         "exp": 20,
@@ -546,7 +546,7 @@
             "sore",
             "many_herbs1"
         ],
-        "intro_text": "p_l is on a mission to find lungwort now that leaf-bare is upon the Clan. As the only reliable cure for yellowcough, they're determined that c_n won't run out of it. They take along a warrior escort to help search for leaves preserved under the snow.",
+        "intro_text": "p_l is on a mission to find lungwort now that leaf-bare is upon the pack. As the only reliable cure for yellowcough, they're determined that c_n won't run out of it. They take along a warrior escort to help search for leaves preserved under the snow.",
         "decline_text": "A cat grabs p_l's attention before they can leave.",
         "chance_of_success": 30,
         "exp": 20,
@@ -588,11 +588,11 @@
             "kits"
         ],
         "intro_text": "p_l while searching for some specific herbs is startled by weird sounds and whispers on the wind.",
-        "decline_text": "Unnerved and unable to discern if it is a sign from StarClan or nothing, they go back to c_n to ask for help and guidance.",
+        "decline_text": "Unnerved and unable to discern if it is a sign from Starpack or nothing, they go back to c_n to ask for help and guidance.",
         "chance_of_success": 35,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "p_l sure that it is a sign of StarClan follows the sounds and whispers on the wind and finds a queen who lost their life in a harsh kitting, their newborn kits clinging to a body that will never move again. p_l instantly wraps themselves around the kits and orders r_c back to camp to find help and a queen willing to nurse them.",
+            "unscathed_common": "p_l sure that it is a sign of Starpack follows the sounds and whispers on the wind and finds a queen who lost their life in a harsh kitting, their newborn kits clinging to a body that will never move again. p_l instantly wraps themselves around the kits and orders r_c back to camp to find help and a queen willing to nurse them.",
             "unscathed_rare": "p_l follows the strange sounds on the wind and finds a struggling queen with their newborn kits clinging to them. r_c sprints back to camp to find help while p_l tries to make the queen eat some strengthening herbs. Thankful for the help the queen joins c_n with their kits."
         },
         "fail_text": {
@@ -662,7 +662,7 @@
         "chance_of_success": 60,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "The ground is slippery with damp, and as p_l falls, r_c catches them. It's a nice reminder that the responsibility of looking after the Clan is a shared one, and the rescue also makes p_l shiver pleasantly.",
+            "unscathed_common": "The ground is slippery with damp, and as p_l falls, r_c catches them. It's a nice reminder that the responsibility of looking after the pack is a shared one, and the rescue also makes p_l shiver pleasantly.",
             "stat_skill": "s_c has always been good at talking, but chatting with r_c they feel like they don't have to be. It's just a herb gathering patrol, but s_c feels more relaxed than they've felt in moons when they come back to camp, smiling softly."
         },
         "fail_text": {
@@ -740,7 +740,7 @@
         "chance_of_success": 60,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "The ground is dusty and slippery, and as p_l falls, r_c catches them. It's a nice reminder that the responsibility of looking after the Clan is a shared one, and the rescue also makes p_l shiver pleasantly.",
+            "unscathed_common": "The ground is dusty and slippery, and as p_l falls, r_c catches them. It's a nice reminder that the responsibility of looking after the pack is a shared one, and the rescue also makes p_l shiver pleasantly.",
             "stat_skill": "s_c has always been good at talking, but chatting with r_c they feel like they don't have to be. It's just a herb gathering patrol, but s_c feels more relaxed than they've felt in moons when they come back to camp, smiling softly."
         },
         "fail_text": {
@@ -818,7 +818,7 @@
         "chance_of_success": 60,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "The ground is slippery with damp, and as p_l falls, r_c catches them. It's a nice reminder that the responsibility of looking after the Clan is a shared one, and the rescue also makes p_l shiver pleasantly.",
+            "unscathed_common": "The ground is slippery with damp, and as p_l falls, r_c catches them. It's a nice reminder that the responsibility of looking after the pack is a shared one, and the rescue also makes p_l shiver pleasantly.",
             "stat_skill": "s_c has always been good at talking, but chatting with r_c they feel like they don't have to be. It's just a herb gathering patrol, but s_c feels more relaxed than they've felt in moons when they come back to camp, smiling softly."
         },
         "fail_text": {
@@ -896,7 +896,7 @@
         "chance_of_success": 60,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "The ground is slippery with frost, and as p_l falls, r_c catches them. It's a nice reminder that the responsibility of looking after the Clan is a shared one, and the rescue also makes p_l shiver pleasantly.",
+            "unscathed_common": "The ground is slippery with frost, and as p_l falls, r_c catches them. It's a nice reminder that the responsibility of looking after the pack is a shared one, and the rescue also makes p_l shiver pleasantly.",
             "stat_skill": "s_c has always been good at talking, but chatting with r_c they feel like they don't have to be. It's just a herb gathering patrol, but s_c feels more relaxed than they've felt in moons when they come back to camp, smiling softly."
         },
         "fail_text": {
@@ -960,7 +960,7 @@
         "exp": 10,
         "success_text": {
             "unscathed_common": "They have a good discussion while foraging under branches drooping with lichen and manage to come up with several ideas to discuss with c_n's leadership.",
-            "unscathed_rare": "Carefully plucking some herbs, they discuss the latest signs from StarClan and ponder what to do about them. They manage to think up some tentative plans and return to camp to discuss them with the leader and deputy."
+            "unscathed_rare": "Carefully plucking some herbs, they discuss the latest signs from Starpack and ponder what to do about them. They manage to think up some tentative plans and return to camp to discuss them with the leader and deputy."
         },
         "fail_text": {
             "unscathed_common": "They fail to interpret any signs, and are too irritated with each other to discuss any other news. Furthermore, neither cat manages to gather anything, the trip cut short by the discovery of ominous Twoleg things, piled in an abandoned, stinking heap."

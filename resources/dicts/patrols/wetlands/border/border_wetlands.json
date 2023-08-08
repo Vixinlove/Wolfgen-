@@ -5,7 +5,7 @@
         "season": "Any",
         "tags": [
             "border",
-            "other_clan",
+            "other_pack",
             "injury",
             "scar",
             "BRIDGE"
@@ -22,7 +22,7 @@
         },
         "fail_text": {
             "unscathed_common": "r_c marks a little, but they reach a section where the border is muddled, and have to give up and go home.",
-            "unscathed_stat": "s_c is marking along the territory line when they encounter a patrol from o_c_n, out on a similar mission. They stare at the other Clan's patrol challengingly, following their every move until the shared border ends, and though no words are exchanged it's very tense.",
+            "unscathed_stat": "s_c is marking along the territory line when they encounter a patrol from o_c_n, out on a similar mission. They stare at the other pack's patrol challengingly, following their every move until the shared border ends, and though no words are exchanged it's very tense.",
             "injury": "r_c is having trouble focusing today, and puts a mark in the wrong place - and at the worst possible moment, because a o_c_n patrol sees them doing it! They come back to camp scratched up, and immediately apologize to the deputy for the diplomatic incident they've inadvertently caused."
         },
         "win_skills": [
@@ -63,7 +63,7 @@
         "season": "Any",
         "tags": [
             "border",
-            "other_clan",
+            "other_pack",
             "injury",
             "scar",
             "CHEEK",
@@ -82,7 +82,7 @@
         },
         "fail_text": {
             "unscathed_common": "r_c marks a little, but they reach a section where the border is muddled, and have to give up and go home.",
-            "unscathed_stat": "s_c is marking along the territory line when they encounter a patrol from o_c_n, out on a similar mission. They stare at the other Clan's patrol challengingly, following their every move until the shared border ends, and though no words are exchanged it's very tense.",
+            "unscathed_stat": "s_c is marking along the territory line when they encounter a patrol from o_c_n, out on a similar mission. They stare at the other pack's patrol challengingly, following their every move until the shared border ends, and though no words are exchanged it's very tense.",
             "death": "r_c encounters a patrol from o_c_n on the border, and greets them politely, but there's something different here. Something dangerous. They don't return to camp.",
             "injury": "r_c is having trouble focusing today, and puts a mark in the wrong place - and at the worst possible moment, because a o_c_n patrol sees them doing it! The diplomatic incident spirals into a full blown conflict, and r_c hauls themselves back to camp wounded and bleeding."
         },
@@ -125,7 +125,7 @@
         "season": "Any",
         "tags": [
             "border",
-            "other_clan",
+            "other_pack",
             "injury",
             "scar",
             "CHEEK",
@@ -144,7 +144,7 @@
         },
         "fail_text": {
             "unscathed_common": "r_c marks a little, but they reach a section where the border is muddled, and have to give up and go home.",
-            "unscathed_stat": "s_c is marking along the territory line when they encounter a patrol from o_c_n, out on a similar mission. They stare at the other Clan's patrol challengingly, following their every move until the shared border ends, and though no words are exchanged it's very tense.",
+            "unscathed_stat": "s_c is marking along the territory line when they encounter a patrol from o_c_n, out on a similar mission. They stare at the other pack's patrol challengingly, following their every move until the shared border ends, and though no words are exchanged it's very tense.",
             "death": "r_c encounters a patrol from o_c_n on the border, and greets them politely, but there's something different here. Something dangerous. They return to camp, blood soaked through their fur and a new hardness in their heart.",
             "injury": "r_c is having trouble focusing today, and puts a mark in the wrong place - and at the worst possible moment, because a o_c_n patrol sees them doing it! The diplomatic incident spirals into a full blown conflict, and r_c hauls themselves back to camp wounded and bleeding."
         },
@@ -187,7 +187,7 @@
         "season": "Any",
         "tags": [
             "border",
-            "other_clan",
+            "other_pack",
             "injury",
             "scar",
             "CHEEK",
@@ -235,7 +235,7 @@
         "season": "Any",
         "tags": [
             "border",
-            "other_clan",
+            "other_pack",
             "injury",
             "scar",
             "CHEEK",
@@ -283,7 +283,7 @@
         "season": "Any",
         "tags": [
             "border",
-            "other_clan",
+            "other_pack",
             "no_app"
         ],
         "intro_text": "r_c heads out into the wetlands alone, wanting to make a quick check on the border.",
@@ -335,7 +335,7 @@
         "season": "Any",
         "tags": [
             "border",
-            "other_clan",
+            "other_pack",
             "injury",
             "scar",
             "BRIDGE",
@@ -394,7 +394,7 @@
         "season": "Any",
         "tags": [
             "border",
-            "other_clan",
+            "other_pack",
             "injury",
             "scar",
             "THROAT",
@@ -453,7 +453,7 @@
         "season": "Any",
         "tags": [
             "border",
-            "other_clan",
+            "other_pack",
             "deputy"
         ],
         "intro_text": "r_c heads out into the wetlands alone, wanting to make a quick check on the border.",
@@ -495,7 +495,7 @@
         "season": "Any",
         "tags": [
             "border",
-            "other_clan",
+            "other_pack",
             "leader"
         ],
         "intro_text": "r_c heads out into the wetlands alone, wanting to make a quick check on the border.",
@@ -537,7 +537,7 @@
         "season": "Any",
         "tags": [
             "border",
-            "other_clan",
+            "other_pack",
             "injury",
             "scar",
             "ONE",
@@ -551,12 +551,12 @@
         "success_text": {
             "unscathed_common": "A section of their border with o_c_n has flooded under some recent rains, wiping the territorial marks off the map. r_c remarks it, and heads home, a simple but necessary mission completed.",
             "unscathed_rare": "r_c comes across a o_c_n apprentice on the wrong side of the border, and holding prey. The youngster is terrified, and loudly protests that they didn't know! r_c gives them the benefit of the doubt and brings them back to the frantic patrol looking for them on the other side of the border, who are formal, but genuinely, grateful.",
-            "stat_skill": "s_c is marking along the territory line when they encounter a patrol from o_c_n, out on a similar mission. They stare at the other Clan's patrol challengingly, following their every move until the shared border ends. But by the standards of o_c_n - c_n relations, it's a peaceful encounter.",
+            "stat_skill": "s_c is marking along the territory line when they encounter a patrol from o_c_n, out on a similar mission. They stare at the other pack's patrol challengingly, following their every move until the shared border ends. But by the standards of o_c_n - c_n relations, it's a peaceful encounter.",
             "stat_trait": "As s_c marks the border, they encounter a o_c_n border patrol. It even includes a young apprentice, who starts fluffing up and insulting them. s_c sternly growls back to the apprentice that border fights are no joke, and surprisingly their mentor joins s_c, both warriors teaching the youngster firmly but peacefully."
         },
         "fail_text": {
             "unscathed_common": "r_c comes across a o_c_n apprentice on the wrong side of the border, and holding prey. They see the young cat off with a furious swipe of their claws, and then bring the prey back to c_n camp to report the incident to the deputy.",
-            "unscathed_stat": "s_c is marking along the territory line when they encounter a patrol from o_c_n, out on a similar mission. They stare at the other Clan's patrol challengingly, following their every move until the shared border ends, and the patrol is marred by muttered insults and hissed threats from both sides.",
+            "unscathed_stat": "s_c is marking along the territory line when they encounter a patrol from o_c_n, out on a similar mission. They stare at the other pack's patrol challengingly, following their every move until the shared border ends, and the patrol is marred by muttered insults and hissed threats from both sides.",
             "injury": "r_c is having trouble focusing today, and puts a mark in the wrong place - and at the worst possible moment, because a o_c_n patrol sees them doing it! They come back to camp battered and scratched, and immediately apologize to the deputy for the diplomatic incident they've inadvertently caused.",
             "stat_death": "s_c finds a o_c_n patrol out marking the same border, and can't contain their hostility. Eventually the other patrol snaps, and s_c doesn't come back to camp. Their body is found along the border, and o_c_n boasts about it at the next Gathering.",
             "stat_injury": "s_c can't contain their hatred for o_c_n, not even meeting a patrol of theirs at the border as a lone cat. They come back to camp bleeding."
@@ -591,7 +591,7 @@
         "antagonize_fail_text": null,
         "history_text": {
             "scar": "m_c got injured patrolling on the border.",
-            "reg_death": "m_c was killed by a hostile Clan."
+            "reg_death": "m_c was killed by a hostile pack."
         }
     },
     {
@@ -600,7 +600,7 @@
         "season": "Any",
         "tags": [
             "border",
-            "other_clan",
+            "other_pack",
             "injury",
             "scar",
             "SNOUT",
@@ -614,12 +614,12 @@
         "success_text": {
             "unscathed_common": "A section of their border with o_c_n has flooded under some recent rains, wiping the territorial marks off the map. r_c remarks it, and heads home, a simple but necessary mission completed.",
             "unscathed_rare": "r_c comes across a o_c_n apprentice on the wrong side of the border, and holding prey. The youngster is terrified, and loudly protests that they didn't know! r_c gives them the benefit of the doubt and brings them back to the frantic patrol looking for them on the other side of the border, who bow their heads to c_n's deputy in gratitude.",
-            "stat_skill": "s_c is marking along the territory line when they encounter a patrol from o_c_n, out on a similar mission. They stare at the other Clan's patrol challengingly, following their every move until the shared border ends. But by the standards of o_c_n - c_n relations, it's a peaceful encounter.",
+            "stat_skill": "s_c is marking along the territory line when they encounter a patrol from o_c_n, out on a similar mission. They stare at the other pack's patrol challengingly, following their every move until the shared border ends. But by the standards of o_c_n - c_n relations, it's a peaceful encounter.",
             "stat_trait": "As s_c marks the border, they encounter a o_c_n border patrol. It even includes a young apprentice, who starts fluffing up and insulting them. s_c sternly growls back to the apprentice that border fights are no joke, and surprisingly their mentor joins s_c, both warrior and deputy teaching the youngster firmly but peacefully."
         },
         "fail_text": {
             "unscathed_common": "r_c comes across a o_c_n apprentice on the wrong side of the border, and holding prey. Furious, they snarl their anger. The apprentice turns tail and flees, with r_c hot on their trail, and when the apprentice crosses the border to hide behind their mentor the o_c_n warrior's face goes slack with horror to see c_n's deputy.",
-            "unscathed_stat": "s_c is marking along the territory line when they encounter a patrol from o_c_n, out on a similar mission. They stare at the other Clan's patrol challengingly, following their every move until the shared border ends, and the patrol is marred by muttered insults and hissed threats from both sides.",
+            "unscathed_stat": "s_c is marking along the territory line when they encounter a patrol from o_c_n, out on a similar mission. They stare at the other pack's patrol challengingly, following their every move until the shared border ends, and the patrol is marred by muttered insults and hissed threats from both sides.",
             "death": "r_c encounters a patrol from o_c_n on the border, and greets them coldly, but there's something different here. Something dangerous. They don't return to camp.",
             "injury": "r_c is having trouble focusing today, and puts a mark in the wrong place - and at the worst possible moment, because a o_c_n patrol sees them doing it! The diplomatic incident spirals into a full blown conflict, and r_c hauls themselves back to camp wounded and bleeding.",
             "stat_death": "s_c finds a o_c_n patrol out marking the same border, and can't contain their hostility. Eventually the other patrol snaps, and s_c doesn't come back to camp. Their body is found along the border, and o_c_n boasts about it at the next Gathering.",
@@ -655,7 +655,7 @@
         "antagonize_fail_text": null,
         "history_text": {
             "scar": "m_c got injured patrolling on the border.",
-            "reg_death": "m_c was killed by a hostile Clan."
+            "reg_death": "m_c was killed by a hostile pack."
         }
     },
     {
@@ -664,7 +664,7 @@
         "season": "Any",
         "tags": [
             "border",
-            "other_clan",
+            "other_pack",
             "injury",
             "scar",
             "THROAT",
@@ -678,12 +678,12 @@
         "success_text": {
             "unscathed_common": "A section of their border with o_c_n has flooded under some recent rains, wiping the territorial marks off the map. r_c remarks it, and heads home, a simple but necessary mission completed.",
             "unscathed_rare": "r_c comes across a o_c_n apprentice on the wrong side of the border, and holding prey. The youngster is terrified, and loudly protests that they didn't know! r_c gives them the benefit of the doubt and brings them back to the frantic patrol looking for them on the other side of the border, who crouch to the ground and thank r_c profusely.",
-            "stat_skill": "s_c is marking along the territory line when they encounter a patrol from o_c_n, out on a similar mission. They stare at the other Clan's patrol challengingly, following their every move until the shared border ends. But by the standards of o_c_n - c_n relations, it's a peaceful encounter.",
+            "stat_skill": "s_c is marking along the territory line when they encounter a patrol from o_c_n, out on a similar mission. They stare at the other pack's patrol challengingly, following their every move until the shared border ends. But by the standards of o_c_n - c_n relations, it's a peaceful encounter.",
             "stat_trait": "As s_c marks the border, they encounter a o_c_n border patrol. It even includes a young apprentice, who starts fluffing up and insulting them. s_c sternly growls back to the apprentice that border fights are no joke, and surprisingly their mentor joins s_c, both warrior and leader teaching the youngster firmly but peacefully."
         },
         "fail_text": {
             "unscathed_common": "r_c comes across a o_c_n apprentice on the wrong side of the border, and holding prey. Furious, they snarl their anger. The apprentice turns tail and flees, with r_c hot on their trail, and when the apprentice crosses the border to hide behind their mentor the o_c_n warrior's face goes slack with horror to see c_n's leader.",
-            "unscathed_stat": "s_c is marking along the territory line when they encounter a patrol from o_c_n, out on a similar mission. They stare at the other Clan's patrol challengingly, following their every move until the shared border ends, and the patrol is marred by muttered insults and hissed threats from both sides.",
+            "unscathed_stat": "s_c is marking along the territory line when they encounter a patrol from o_c_n, out on a similar mission. They stare at the other pack's patrol challengingly, following their every move until the shared border ends, and the patrol is marred by muttered insults and hissed threats from both sides.",
             "death": "r_c encounters a patrol from o_c_n on the border, and greets them politely, but there's something different here. Something dangerous. They return to camp, blood soaked through their fur and a new hardness in their heart.",
             "injury": "r_c is having trouble focusing today, and puts a mark in the wrong place - and at the worst possible moment, because a o_c_n patrol sees them doing it! The diplomatic incident spirals into a full blown conflict, and r_c hauls themselves back to camp wounded and bleeding.",
             "stat_death": "s_c finds a o_c_n patrol out marking the same border, and can't contain their hostility. Eventually the other patrol snaps, and s_c loses a life in a vicious fight. o_c_n boasts about it at the next Gathering.",
@@ -719,7 +719,7 @@
         "antagonize_fail_text": null,
         "history_text": {
             "scar": "m_c got injured patrolling on the border.",
-            "reg_death": "m_c lost a life against a hostile Clan."
+            "reg_death": "m_c lost a life against a hostile pack."
         }
     },
     {
@@ -728,7 +728,7 @@
         "season": "Any",
         "tags": [
             "border",
-            "other_clan",
+            "other_pack",
             "injury",
             "scar",
             "CHEEK",
@@ -771,7 +771,7 @@
         "antagonize_fail_text": null,
         "history_text": {
             "scar": "m_c got injured patrolling on the border.",
-            "reg_death": "m_c was killed by a hostile Clan."
+            "reg_death": "m_c was killed by a hostile pack."
         }
     },
     {
@@ -780,7 +780,7 @@
         "season": "Any",
         "tags": [
             "border",
-            "other_clan",
+            "other_pack",
             "injury",
             "scar",
             "SNOUT",
@@ -794,8 +794,8 @@
         "success_text": {
             "unscathed_common": "A section of their border with o_c_n has flooded under some recent rains, wiping the territorial marks off the map. r_c remarks it, and heads home, a simple but necessary mission completed.",
             "unscathed_rare": "r_c heads out to clarify a portion of the border that there's been confusion over recently, and encounters the leader of o_c_n out doing the same thing. They're carefully frosty with each other, but manage to work together to find a solution. Maybe o_c_n isn't as bad as r_c thought.",
-            "stat_skill": "s_c comes across a patrol from o_c_n, out on a similar mission to them and being led by their Clan leader. One of the patrol yowls an insult, and s_c squares up, coldly sneering at the warrior that thinks they can take them. The other leader calls their warrior back, begrudgingly impressed.",
-            "stat_trait": "As s_c marks the border, they encounter the o_c_n leader out with their new apprentice. s_c passes on some important information affecting both their Clans, and politely wishes the young apprentice well. The other leader is begrudgingly impressed."
+            "stat_skill": "s_c comes across a patrol from o_c_n, out on a similar mission to them and being led by their pack leader. One of the patrol yowls an insult, and s_c squares up, coldly sneering at the warrior that thinks they can take them. The other leader calls their warrior back, begrudgingly impressed.",
+            "stat_trait": "As s_c marks the border, they encounter the o_c_n leader out with their new apprentice. s_c passes on some important information affecting both their packs, and politely wishes the young apprentice well. The other leader is begrudgingly impressed."
         },
         "fail_text": {
             "unscathed_common": "r_c heads out to clarify a portion of the border that there's been confusion over recently, and encounters the leader of o_c_n out doing the same thing. Both leaders find a point where they can't agree on the right border path, and storm off in a huff.",
@@ -823,7 +823,7 @@
         "antagonize_fail_text": null,
         "history_text": {
             "scar": "m_c got injured patrolling on the border.",
-            "reg_death": "m_c was killed by a hostile Clan."
+            "reg_death": "m_c was killed by a hostile pack."
         }
     },
     {
@@ -843,7 +843,7 @@
         "success_text": {
             "unscathed_common": "It's just an odd loner singing to themself. The patrol greets them, and as the loner isn't inside c_n territory, it's a polite interaction without any hostility.",
             "unscathed_rare": "It's just an odd loner singing to themself. When they see the patrol they invite them to sing too, but instead, p_l offers the somewhat battered looking and strange cat an introduction to c_n. It's got to be far less lonely than their current life.",
-            "stat_skill": "Your patrol walks into an ambush by a group of rogues. It's only by the grace of StarClan that s_c is there, fighting with the ferocity of LionClan, the strength of TigerClan, and the flexibility of LeopardClan. Shaken, but no more than bruised, the patrol manages to retreat to safety.",
+            "stat_skill": "Your patrol walks into an ambush by a group of rogues. It's only by the grace of Starpack that s_c is there, fighting with the ferocity of Lionpack, the strength of Tigerpack, and the flexibility of Leopardpack. Shaken, but no more than bruised, the patrol manages to retreat to safety.",
             "stat_trait": "s_c signals for the patrol to stop. Carefully, quietly, they explain their concerns about the unknown situation. And maybe they're being too cautious - but then p_l picks up on the scent of strange cats around the Twoleg den. Forewarned, the patrol retreats to safety."
         },
         "fail_text": {
@@ -882,7 +882,7 @@
         "success_text": {
             "unscathed_common": "It's just an odd loner singing to themself. r_c greets them, and as the loner isn't inside c_n territory, it's a polite interaction without any hostility.",
             "unscathed_rare": "It's just an odd loner singing to themself. When they see r_c, they invite {PRONOUN/r_c/object} to sing too, but instead, r_c offers the somewhat battered looking and strange cat an introduction to c_n. It's got to be far less lonely than their current life.",
-            "stat_skill": "s_c walks into an ambush by a group of rogues. It's only by the grace of StarClan that s_c has the fighting skill and confidence to escape, running for their life.",
+            "stat_skill": "s_c walks into an ambush by a group of rogues. It's only by the grace of Starpack that s_c has the fighting skill and confidence to escape, running for their life.",
             "stat_trait": "s_c has a bad feeling about this. And maybe they're being too cautious - but then they pick up on the scent of strange cats around the Twoleg den. Forewarned, s_c retreats to safety."
         },
         "fail_text": {
@@ -1605,7 +1605,7 @@
         "success_text": {
             "unscathed_common": "It keeps the cats' minds off their damp paws and muddy path. The patrol goes quickly and easily.",
             "stat_skill": "s_c spins a story, vivid and engaging, telling the tale of a massive war their ancestors fought over the border the patrol is headed to mark. Not only does it keep every cat entertained, it really emphasizes the importance of the patrol and motivates everyone.",
-            "stat_trait": "It's a fantastic idea, making the patrol fly by as cats chat and laugh with their Clanmates, and everyone ends the day feeling much closer to each other."
+            "stat_trait": "It's a fantastic idea, making the patrol fly by as cats chat and laugh with their packmates, and everyone ends the day feeling much closer to each other."
         },
         "fail_text": {
             "unscathed_common": "r_c skids on mud as they're getting to an exciting part, and has to stop the story to pay attention to the path. ",
