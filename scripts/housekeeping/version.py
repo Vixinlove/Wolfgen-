@@ -8,7 +8,7 @@ from platformdirs import user_data_dir
 
 logger = logging.getLogger(__name__)
 
-VERSION_NAME = "0.1.1"
+VERSION_NAME = "0.1.0.1"
 SAVE_VERSION_NUMBER = 2  # This is saved in the pack save-file, and is used for save-file converstion.
 
 
